@@ -1,0 +1,40 @@
+.main-page{
+    margin-right: 0px;
+    padding-right: 0px;
+    width: 1220px;
+    height: 100%;
+    background-color: #ffffff;
+    display: flex;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    flex-direction: column;
+}
+.car{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 70%;
+}
+
+.referencias{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+    width: 70%;
+}
+.container{
+    padding: 15px;
+    display: flex;
+    gap: 100px;
+
+}
+.containersss{
+    font-size: 60px;
+
+}
+.ImgDIVWidth {
+    width: 50px;
+    height: 50px;
+}
+
+

@@ -1,0 +1,23 @@
+.header-page {
+  /* margin-right: 353%; */
+  padding-top: 40px;
+  width: 420px;
+  height: 1280px; 
+  background-color: #39a900;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Line-Logo{
+  width: 300px;
+  height: 6px;
+  background-color: white;
+  margin-bottom: 80px;
+}
+.Image-Sena {
+  margin-top: 150px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid #AAAAAA;
+}

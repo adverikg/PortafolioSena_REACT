@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar > ul {
+  width: 100%;
+}
+
+.navbar > ul > li {
+  font-size: 1rem;
+  text-align: center;
+}
+
+.nav-home {
+  font-weight: 600;
+  color: #ffffff;
+}
+.nav-links{
+  font-weight: 600;
+  font-size: 25px;
+  color: #c1ff95;
+  padding-bottom: 10px;
+}

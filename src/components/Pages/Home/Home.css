@@ -1,0 +1,12 @@
+.HomePage {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.header {
+  grid-column: 2;
+}
+
+.main {
+  grid-column: 1;
+}
